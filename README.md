@@ -1,5 +1,8 @@
 # SPRING BOOT RESTCLIENT ERROR HANDLING
 
+## Mock Client
+For mock the response from a client in this project I use https://httpbin.org/
+
 
 ## Tips
 Using @Retryable for methods to get retry during http calls
